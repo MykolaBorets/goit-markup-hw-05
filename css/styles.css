@@ -902,8 +902,6 @@ img {
   justify-content: center;
   margin-bottom: 24px;
 }
-.checkbox-privacy {
-}
 
 .checkbox-privacy:checked + .modal-privacy-label > .modal-privacy-text {
   border: none;
